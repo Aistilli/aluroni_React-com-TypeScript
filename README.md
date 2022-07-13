@@ -29,6 +29,33 @@ Aula 3, aprendi como:
 - Criar variáveis css
   -Criamos variáveis css para nos auxiliar na padronização dos estilos da página, evitando repetição e facilitando na manutenção de código.
 
+Aula 4, aprendi como:
+
+- Inferir o tipo de um objeto
+  - O operador typeof nos permite inferir a tipagem de um objeto sem a necessidade de criar uma interface.
+- Manipulação de objetos
+  - Utilizamos [] em volta do nome da chave de um objeto quando o valor da chave é dinâmico.
+- Biblioteca classnames
+  - Essa biblioteca nos permite concatenar classes CSS utilizando sintaxe de objetos.
+
+Aula 5, aprendi como:
+
+- Renderizar uma lista de componentes
+  - Podemos utilizar o spread operator para não precisar passar as props manualmente quando temos total controle do componente.
+- Utilizar a pasta public
+  - Arquivos estáticos que devem ser referenciados dinamicamente precisam estar dentro dessa pasta.
+- Gerar os arquivos utilizados em produção
+  - Com o comando npm run build podemos verificar quais arquivos estarão presentes no ambiente de produção.
+
+Aula 6, aprendi como:
+
+- Buscar com expressão regular
+  - Utilizar expressões regulares em buscas de textos.
+- Manipular elementos de uma lista
+  - Alterar a quantidade ou ordenar os elementos de uma lista com métodos filter e sort.
+- Tipar o useState
+  - Escrever useState<Tipo> para tipar o state e o setState.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
