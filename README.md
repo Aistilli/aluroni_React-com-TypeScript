@@ -1,11 +1,11 @@
-Aula 1, aprendi como:
+Curso 1 - Aula 1, aprendi como:
 
 - Criar projetos usando Create React App;
 - Vimos como podemos usar templates, como typescript para criar projetos com CRA e depois removemos o que não será utilizado neste projeto;
 - Usar CSS Modules com TypeScript e Sass;
 - Aplicamos estilos escritos em Sass via CSS Modules e adicionamos a capacidade do Visual Studio Code oferecer autocomplete dos módulos de estilos com typescript-plugin-css-modules.
 
-Aula 2, aprendi como:
+Curso 1 - Aula 2, aprendi como:
 
 - Importar um svg;
   - Vimos como o webpack entende aquela string que fornecemos ao src da tag img e porque não funciona, então, aprendemos como importar um svg da forma correta.
@@ -16,7 +16,7 @@ Aula 2, aprendi como:
 - Utilizar a biblioteca reset css para resetar o css;
   - Resetamos os estilos da nossa página utilizando uma biblioteca chamada reset.css que nos ajuda a limpar os estilos padrões de cada elemento de acordo com cada navegador.
 
-Aula 3, aprendi como:
+Curso 1 - Aula 3, aprendi como:
 
 - Importar fontes externas
   - Aprendemos como importar fontes externas no nosso projeto utilizando o google fonts.
@@ -29,7 +29,7 @@ Aula 3, aprendi como:
 - Criar variáveis css
   -Criamos variáveis css para nos auxiliar na padronização dos estilos da página, evitando repetição e facilitando na manutenção de código.
 
-Aula 4, aprendi como:
+Curso 1 - Aula 4, aprendi como:
 
 - Inferir o tipo de um objeto
   - O operador typeof nos permite inferir a tipagem de um objeto sem a necessidade de criar uma interface.
@@ -38,7 +38,7 @@ Aula 4, aprendi como:
 - Biblioteca classnames
   - Essa biblioteca nos permite concatenar classes CSS utilizando sintaxe de objetos.
 
-Aula 5, aprendi como:
+Curso 1 - Aula 5, aprendi como:
 
 - Renderizar uma lista de componentes
   - Podemos utilizar o spread operator para não precisar passar as props manualmente quando temos total controle do componente.
@@ -47,7 +47,7 @@ Aula 5, aprendi como:
 - Gerar os arquivos utilizados em produção
   - Com o comando npm run build podemos verificar quais arquivos estarão presentes no ambiente de produção.
 
-Aula 6, aprendi como:
+Curso 1 - Aula 6, aprendi como:
 
 - Buscar com expressão regular
   - Utilizar expressões regulares em buscas de textos.
@@ -55,6 +55,37 @@ Aula 6, aprendi como:
   - Alterar a quantidade ou ordenar os elementos de uma lista com métodos filter e sort.
 - Tipar o useState
   - Escrever useState<Tipo> para tipar o state e o setState.
+
+Continuação do curso...
+
+Curso 2 - Aula 1, aprendi como:
+
+- ESLint;
+  - O que é e como configurar o ESLint.
+- Como corrigir erros de código seguindo as regras da configuração;
+- Criar a página de início da aplicação.
+
+Curso 2 - Aula 2, aprendi como:
+
+- Separar os dados do cardápio para uma pasta separada;
+- BrowserRouter e HashRouter;
+  - Diferença entre BrowserRouter e HashRouter.
+- Routes;
+  - Utilizar o routes para alternar entre rotas.
+
+Curso 2 - Aula 3, aprendi como:
+
+- Reutilizar o menu;
+- Reaproveitar o header utilizando o react-router-dom;
+- Utilizar o componente Link;
+- Fazer a página padrão.
+
+Curso 2 - Aula 4, aprendi como:
+
+- Desenvolver um tema para a aplicação;
+- Aplicar o componente Outlet do react-router-dom;
+- Utilizar o hook useNavigate para navegar entre rotas;
+- Criar uma tela not found para páginas não encontradas.
 
 # Getting Started with Create React App
 
