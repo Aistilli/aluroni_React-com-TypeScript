@@ -1,4 +1,4 @@
-Curso 1 - Aula 1, aprendi como:
+Curso 1 (React: lidando com arquivos estáticos) - Aula 1, aprendi como:
 
 - Criar projetos usando Create React App;
 - Vimos como podemos usar templates, como typescript para criar projetos com CRA e depois removemos o que não será utilizado neste projeto;
@@ -58,7 +58,7 @@ Curso 1 - Aula 6, aprendi como:
 
 Continuação do curso...
 
-Curso 2 - Aula 1, aprendi como:
+Curso 2 (React: conhecendo a biblioteca React Router) - Aula 1, aprendi como:
 
 - ESLint;
   - O que é e como configurar o ESLint.
@@ -101,6 +101,42 @@ Curso 2 - Aula 6, aprendi como:
 - Acrescentar a tela NotFound na tela de detalhes;
 - Utilizar o componente Redirect;
 - Resolver o header.
+
+Curso 3 (React: otimizando a performance) - Aula 1, aprendi:
+
+- Como funciona o JSX;
+- O que é React.createElement;
+- Como o React transforma os códigos JSX em objetos;
+- O que é Virtual DOM;
+- Como funciona uma estrutura React.
+
+Curso 3 - Aula 2, aprendi:
+
+- O que é Reconciliation;
+- O que é Imutabilidade e o que isto tem a ver com React;
+- O que é memoização e como utilizar o React.memo;
+- Como controlar com memo quando um componente deve atualizar ou não.
+
+Curso 3 - Aula 3, aprendi:
+
+- O que é e para que serve a prop key;
+- O que é a extensão React Developer Tools;
+- Como utilizar a aba components da extensão;
+- Como utilizar a aba profiler da extensão;
+- Como avaliar se um componente está renderizando ou não utilizando a extensão.
+
+Curso 3 - Aula 4, aprendi:
+
+- Como memoizar componentes de pacotes externos;
+- Como analisar se um componente deve ser memoizado;
+- A diferença entre memo e useMemo.
+
+Curso 3 - Aula 5, aprendi:
+
+- O que é Lazy Loading;
+- O que é Dynamic import;
+- O que é Code splitting;
+- Como utilizar o React.lazy.
 
 # Getting Started with Create React App
 
